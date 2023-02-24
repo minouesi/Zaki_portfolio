@@ -700,14 +700,13 @@
                         title: "Pizza DZ",
                         desc: "Le focus doit être sur la présentation appétissante de la nourriture. Des images de haute qualité de pizzas, garnitures et ingrédients pourraient être présentées, ainsi que des images de style de vie. Des offres promotionnelles devraient être affichées de manière accrocheuse. Le design doit promouvoir le restaurant de pizza comme une destination délicieuse et amusante tout en reflétant les valeurs et la personnalité de la marque.",
                         img: "/static/projects/animations.png",
-                        link: "https://drive.google.com/drive/u/1/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf",
-
+                        link: "https://drive.google.com/drive/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf?usp=sharing_eil_se_dm&ts=63efe864",
                         github: "https://github.com/braydentw/learn.theyei",
                         tags: [
                             "Photoshop",
                             "Adobe Illustrator",
                             "Grad Code Picker",
-							"Canva",
+                            "Canva",
                             "UX"
                         ],
                     },
@@ -716,8 +715,7 @@
                         title: "E-Watch",
                         desc: "Utilisez les couleurs et la typographie de la marque pour un look cohérent. Présentez des images de haute qualité de montres dans différents contextes pour montrer leur polyvalence et des images de style de vie peuvent être incluses. Les promotions doivent être affichées de manière accrocheuse. Le design doit présenter les produits de la marque de manière professionnelle tout en promouvant ses valeurs et sa personnalité.",
                         img: "/static/projects/ecommerce.png",
-                        link: "https://drive.google.com/drive/u/1/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf",
-
+                        link: "https://drive.google.com/drive/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf?usp=sharing_eil_se_dm&ts=63efe864",
                         github: "https://github.com/braydentw/react-emoji-search",
                         tags: [
                             "Photoshop",
@@ -732,8 +730,7 @@
                         title: "Phones DZ",
                         desc: "Pour la conception de médias sociaux d'un magasin de téléphones, utilisez la palette de couleurs et la typographie de la marque pour une identité visuelle cohérente. Mettez en valeur les téléphones avec des images de haute qualité et des légendes. Incluez du contenu généré par les utilisateurs et des promotions pour encourager l'engagement et les achats. La conception doit mettre en valeur les produits tout en promouvant les valeurs et la personnalité de la marque.",
                         img: "/static/projects/noteit.png",
-                        link: "https://drive.google.com/drive/u/1/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf",
-
+                        link: "https://drive.google.com/drive/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf?usp=sharing_eil_se_dm&ts=63efe864",
                         github: "https://github.com/braydentw/madlibs",
                         tags: [
                             "Adobe Illustrator",
@@ -747,13 +744,12 @@
                         title: "Midad formation",
                         desc: "Le design pour la formation Midad sur Word, Excel et PowerPoint doit être simple et professionnel, avec des images et des graphiques mettant en évidence les capacités des logiciels. Les détails de la formation doivent être clairement présentés pour refléter les avantages de la formation pour les professionnels qui souhaitent améliorer leur maîtrise de ces outils.",
                         img: "/static/projects/conference.png",
-                        link: "https://drive.google.com/drive/u/1/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf",
-
+                        link: "https://drive.google.com/drive/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf?usp=sharing_eil_se_dm&ts=63efe864",
                         tags: [
-                          "Photoshop",
-                           "Hex Code Picker",
-							"Behance" ,
-							"Dribbble" 
+                            "Photoshop",
+                            "Hex Code Picker",
+                            "Behance",
+                            "Dribbble"
                         ],
                     },
                     {
@@ -761,14 +757,13 @@
                         title: "Cadeaux DZ",
                         desc: "Le design de la page Instagram pour la vente de cadeaux en ligne doit être élégant et cohérent avec la marque. Les images de haute qualité des produits devraient être présentées avec des informations claires sur les prix et la disponibilité. Des offres promotionnelles doivent être mises en évidence. Le design doit donner une impression de cadeaux haut de gamme tout en étant facile à utiliser pour les acheteurs.",
                         img: "/static/projects/tasksly.png",
-                        link: "https://drive.google.com/drive/u/1/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf",
-
+                        link: "https://drive.google.com/drive/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf?usp=sharing_eil_se_dm&ts=63efe864",
                         github: "https://github.com/BraydenTW/create-html-boilerplate",
                         tags: [
-						"Photoshop",
-                           "Hex Code Picker",
-							"Behance" ,
-							"Dribbble" 
+                            "Photoshop",
+                            "Hex Code Picker",
+                            "Behance",
+                            "Dribbble"
                         ],
                     },
                     {
@@ -776,8 +771,7 @@
                         title: "Formation des dons",
                         desc: "Le design du cours de création de dons doit être clair et facile à suivre, avec une mise en page bien structurée. Des images inspirantes et des graphiques attractifs peuvent être inclus pour encourager les apprenants. Les instructions étape par étape doivent être bien présentées, avec des exemples concrets et des astuces utiles. Le design doit refléter l'objectif du cours en encourageant la générosité et l'engagement.",
                         img: "/static/projects/dental.png",
-                        link: "https://drive.google.com/drive/u/1/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf",
-
+                        link: "https://drive.google.com/drive/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf?usp=sharing_eil_se_dm&ts=63efe864",
                         tags: [
                             "Android Studio",
                             "Android",
@@ -792,8 +786,7 @@
                         title: "Formation pour le BAC ",
                         desc: "Le design de la préparation psychologique pour le BAC au sein de l'école Medad doit être professionnel et inspirant. Les couleurs et la typographie doivent refléter la marque de l'école. Les images de haute qualité doivent montrer des étudiants confiants et déterminés. Les détails du cours doivent être clairement présentés pour encourager les étudiants à s'inscrire.",
                         img: "/static/projects/learny.png",
-                        link: "https://drive.google.com/drive/u/1/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf",
-
+                        link: "https://drive.google.com/drive/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf?usp=sharing_eil_se_dm&ts=63efe864",
                         tags: ["Android Studio", "Android", "Java", "UI-UX"],
                     },
                     {
@@ -801,7 +794,7 @@
                         title: "Formation espagnole",
                         desc: "Le design pour le cours d'espagnol de l'école Medad doit être élégant et professionnel, avec une palette de couleurs en accord avec la marque de l'école. Les images doivent être représentatives de la culture hispanique, avec des illustrations de lieux célèbres, des plats traditionnels et des activités culturelles. Les détails du cours doivent être clairement présentés, avec une typographie facile à lire. Le design doit refléter l'engagement de l'école à offrir une formation linguistique de qualité.",
                         img: "/static/projects/muslim.png",
-                        link: "https://drive.google.com/drive/u/1/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf",
+                        link: "https://drive.google.com/drive/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf?usp=sharing_eil_se_dm&ts=63efe864",
                         github: "https://github.com/BraydenTW/8ball-rust",
                         tags: ["Android Studio", "Android", "Java"],
                     },

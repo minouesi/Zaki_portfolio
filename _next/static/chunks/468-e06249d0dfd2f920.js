@@ -195,7 +195,7 @@
                                                         src: "/static/logos/abdelali_profile.png",
                                                         width: "160",
                                                     }),
-                                                    (0, d.jsx)("span", { children: "Abdelali" }),
+                                                    (0, d.jsx)("span", { children: "Zakaria" }),
                                                 ],
                                             }),
                                         }),
