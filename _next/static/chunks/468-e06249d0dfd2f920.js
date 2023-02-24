@@ -706,7 +706,7 @@
                             "Photoshop",
                             "Adobe Illustrator",
                             "Grad Code Picker",
-							"Canva",
+                            "Canva",
                             "UX"
                         ],
                     },
@@ -746,10 +746,10 @@
                         img: "/static/projects/conference.png",
                         link: "https://drive.google.com/drive/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf?usp=sharing_eil_se_dm&ts=63efe864",
                         tags: [
-                          "Photoshop",
-                           "Hex Code Picker",
-							"Behance" ,
-							"Dribbble" 
+                            "Photoshop",
+                            "Hex Code Picker",
+                            "Behance",
+                            "Dribbble"
                         ],
                     },
                     {
@@ -760,10 +760,10 @@
                         link: "https://drive.google.com/drive/folders/18JHqRCoHVJrGY_AdGq9ynHpTrfGVCNZf?usp=sharing_eil_se_dm&ts=63efe864",
                         github: "https://github.com/BraydenTW/create-html-boilerplate",
                         tags: [
-						"Photoshop",
-                           "Hex Code Picker",
-							"Behance" ,
-							"Dribbble" 
+                            "Photoshop",
+                            "Hex Code Picker",
+                            "Behance",
+                            "Dribbble"
                         ],
                     },
                     {
