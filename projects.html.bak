@@ -451,7 +451,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="space-x-2 inline-flex items-center -mt-1 ml-3"><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" title="React"/><span class="sr-only">React</span></span><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" class="invert" title="NextJS"/><span class="sr-only">NextJS</span></span><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="26" title="TailwindCSS"/><span class="sr-only">TailwindCSS</span></span>
                             </div>
                         </div>
-                        <p class="uppercase text-xs font-bold tracking-widest">by Adelmoumen Deghbouche</p>
+                        <p class="uppercase text-xs font-bold tracking-widest">by Hakim Allem</p>
                     </p>
                 </div>
             </footer>
